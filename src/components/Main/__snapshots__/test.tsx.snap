@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing component Main Should render the heading 1`] = `
+<main>
+  <h2>
+    react avançado
+  </h2>
+</main>
+`;
