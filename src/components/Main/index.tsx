@@ -1,7 +1,12 @@
+import * as S from "./styles"
+import MainRight from "./MainRight"
+import MainLeft from "./MainLeft"
+
 const Main = () => (
-  <main>
-    <h2>react avançado</h2>
-  </main>
+  <S.Container>
+    <MainLeft />
+    <MainRight />
+  </S.Container>
 )
 
 export default Main

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing component  SignIn Should render the heading 1`] = `
+<div
+  class="styles__Container-hXcVkP"
+>
+  <h1>
+     SignIn 
+  </h1>
+</div>
+`;
